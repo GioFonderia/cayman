@@ -1,2 +1,5 @@
-# giofonderia.github.io
-Gio's page at Fonderia.io hosted on GitHub
+# fonderia.io
+
+Welcome to Gio's page at Fonderia.io hosted on GitHub
+
+*Stay tuned..*
