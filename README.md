@@ -1,2 +1,2 @@
 # giofonderia.github.io
-Gio's page at Fonder.io hosted on GitHub
+Gio's page at Fonderia.io hosted on GitHub
